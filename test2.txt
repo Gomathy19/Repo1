@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6217-E6D0
+
+ Directory of C:\Users\desktop\Desktop\Project
+
+06-11-2021  15:16    <DIR>          .
+06-11-2021  15:16    <DIR>          ..
+06-11-2021  15:14                 0 git
+06-11-2021  12:33               348 test1.txt
+06-11-2021  15:16                 0 test2.txt
+               3 File(s)            348 bytes
+               2 Dir(s)  190,838,018,048 bytes free
