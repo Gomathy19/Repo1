@@ -1,0 +1,30 @@
+package TestNGDemo;
+
+import java.util.ArrayList;
+
+
+
+public class Main3 {
+
+	public static void main(String[] args) {
+		
+		ArrayList<Movies> list = new ArrayList<Movies>();
+		
+        list.add(new Movies("Force Awakens", 8.3, 2015));
+        list.add(new Movies("Star Wars", 8.7, 1977));
+        list.add(new Movies("Empire Strikes Back", 8.8, 1980));
+        list.add(new Movies("Return of the Jedi", 8.4, 1983));
+        
+        Movies m = new Movies();
+        
+        String s1 = list.get(1).name;
+        String s = m.name;
+
+		for(Movies m1: list)
+		{
+			System.out.println(m1.name);
+		}
+
+	}
+
+}
