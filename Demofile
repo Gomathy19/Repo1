@@ -13,7 +13,7 @@ public class Main3 {
         list.add(new Movies("Force Awakens", 8.3, 2015));
         list.add(new Movies("Star Wars", 8.7, 1977));
         list.add(new Movies("Empire Strikes Back", 8.8, 1980));
-        list.add(new Movies("Return of the Jedi", 8.4, 1983));
+        list.add(new Movies("Return of the Pie", 8.4, 1983));
         
         Movies m = new Movies();
         
